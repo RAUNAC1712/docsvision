@@ -1,0 +1,19 @@
+COASTAL CO-OP BANK
+Mumbai Fort Branch   IFSC: CCOB0000112
+
+ACCOUNT STATEMENT
+
+Account Holder: Orbit Logistics
+Account Number: 118800456123
+Statement Period: 01/09/2026 to 30/09/2026
+
+Opening Balance: Rs. 1,20,000.00
+
+Date         Description                             Amount         Balance
+02/09/2026   Cheque Deposit                       80,000.00     2,00,000.00
+09/09/2026   Fuel Card Settlement                 35,500.00     1,64,500.00
+15/09/2026   Customer Receipt                     90,000.00     4,54,500.00
+21/09/2026   Vehicle EMI                          42,000.00     4,12,500.00
+28/09/2026   Cash Withdrawal                      50,000.00     3,62,500.00
+
+Closing Balance: Rs. 3,62,500.00

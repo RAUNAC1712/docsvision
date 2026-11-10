@@ -1,0 +1,21 @@
+SUNRISE FACILITY SERVICES
+Shop 8, Laxmi Market, Kothrud, Pune 411038
+GSTIN: 27ABCDE12345
+
+INVOICE
+
+Invoice No: INV-0087
+Invoice Date: 05/10/2026
+Due Date: 01/10/2026
+
+Bill To: Northwind Traders Pvt Ltd
+
+Description                     Qty    Unit Price         Amount
+Housekeeping services October     1     45,000.00      45,000.00
+Pantry supplies                   1     12,500.00      12,500.00
+
+Subtotal:        Rs. 57,500.00
+GST (18%):       Rs. 10,350.00
+Total Due:       Rs. 72,850.00
+
+Kindly pay immediately to avoid late fee.

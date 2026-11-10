@@ -1,0 +1,23 @@
+NORTHWIND TRADERS PVT LTD
+14 MG Road, Pune 411001
+
+PURCHASE ORDER
+
+PO Number: PO-2026-0131
+Order Date: 03/09/2026
+Delivery Date: 17/09/2026
+
+Buyer: Northwind Traders Pvt Ltd
+Vendor: Zenith IT Solutions
+Ship To: Northwind Traders Head Office, Pune
+
+Description                     Qty    Unit Price         Amount
+Business Laptop 14 inch          15     58,000.00    8,70,000.00
+USB-C Docking Station            15      9,000.00    1,35,000.00
+
+Subtotal:        Rs. 10,05,000.00
+GST (18%):       Rs.  1,80,900.00
+Total:           Rs. 11,85,900.00
+
+Payment Terms: Net 30
+Authorised by: R. Kulkarni, Procurement Head

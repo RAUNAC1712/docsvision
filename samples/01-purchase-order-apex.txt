@@ -1,0 +1,24 @@
+NORTHWIND TRADERS PVT LTD
+14 MG Road, Pune 411001
+
+PURCHASE ORDER
+
+PO Number: PO-2026-0114
+Order Date: 12/08/2026
+Delivery Date: 26/08/2026
+
+Buyer: Northwind Traders Pvt Ltd
+Vendor: Apex Office Supplies
+Ship To: Northwind Traders Warehouse, Pune
+
+Description                     Qty    Unit Price         Amount
+Ergonomic Office Chair           20      6,500.00    1,30,000.00
+Standing Desk Frame              10     12,000.00    1,20,000.00
+Monitor Arm Dual                 25      2,400.00      60,000.00
+
+Subtotal:        Rs. 3,10,000.00
+GST (18%):       Rs.   55,800.00
+Total:           Rs. 3,65,800.00
+
+Payment Terms: Net 30
+Authorised by: R. Kulkarni, Procurement Head

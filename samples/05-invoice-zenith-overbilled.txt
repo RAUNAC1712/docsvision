@@ -1,0 +1,23 @@
+ZENITH IT SOLUTIONS
+5th Floor, Cyber Tower, Baner, Pune 411045
+GSTIN: 27AACCZ5678K1Z2
+
+TAX INVOICE
+
+Invoice No: ZIT/26/0932
+Invoice Date: 18/09/2026
+Due Date: 18/10/2026
+PO Reference: PO-2026-0131
+
+Bill To: Northwind Traders Pvt Ltd
+14 MG Road, Pune 411001
+
+Description                     Qty    Unit Price         Amount
+Business Laptop 14 inch          15     61,500.00    9,22,500.00
+USB-C Docking Station            15      9,000.00    1,35,000.00
+
+Subtotal:        Rs. 10,57,500.00
+GST (18%):       Rs.  1,90,350.00
+Total Due:       Rs. 12,47,850.00
+
+Payment by NEFT within 30 days.

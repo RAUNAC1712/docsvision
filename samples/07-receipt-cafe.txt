@@ -1,0 +1,19 @@
+CAFE MOCHA HOUSE
+FC Road, Pune 411004
+
+RECEIPT
+
+Receipt No: R-20931
+Date: 14/10/2026  13:42
+Cashier: Priya
+
+Item                            Qty    Price       Amount
+Cappuccino                        2    180.00      360.00
+Club Sandwich                     1    320.00      320.00
+
+Subtotal:        Rs. 680.00
+GST (5%):        Rs.  34.00
+Total:           Rs. 714.00
+
+Paid by UPI
+Thank you, visit again!

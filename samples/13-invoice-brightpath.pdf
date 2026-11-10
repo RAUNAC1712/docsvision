@@ -1,0 +1,58 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+5 0 obj
+<< /Length 760 >>
+stream
+BT
+/F1 10 Tf
+12 TL
+50 790 Td
+(BRIGHTPATH CONSULTING LLP) Tj T*
+(301 Senapati Bapat Road, Pune 411016) Tj T*
+(GSTIN: 27AAKFB4321M1Z8) Tj T*
+() Tj T*
+(TAX INVOICE) Tj T*
+() Tj T*
+(Invoice No: BP-2026-031) Tj T*
+(Invoice Date: 01/10/2026) Tj T*
+(Due Date: 31/10/2026) Tj T*
+() Tj T*
+(Bill To: Northwind Traders Pvt Ltd) Tj T*
+(14 MG Road, Pune 411001) Tj T*
+() Tj T*
+(Description                     Qty    Unit Price         Amount) Tj T*
+(Process advisory retainer         1   2,00,000.00    2,00,000.00) Tj T*
+() Tj T*
+(Subtotal:        Rs. 2,00,000.00) Tj T*
+(GST \(18%\):       Rs.   36,000.00) Tj T*
+(Total Due:       Rs. 2,36,000.00) Tj T*
+() Tj T*
+(As per Master Services Agreement dated 1 September 2026.) Tj T*
+(Payment by NEFT within 30 days.) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000309 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1120
+%%EOF
